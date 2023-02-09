@@ -24,7 +24,7 @@ public class Main {
         System.out.println("Nombre: " + trabajador.getNombre());
         System.out.println("Edad: " + trabajador.getEdad() + " años");
         System.out.println("Teléfono: " + trabajador.getTelefono());
-        System.out.println("Crédito: " + "COP$ " + trabajador.getSalario());
+        System.out.println("Salario: " + "COP$ " + trabajador.getSalario());
 
     }
 }
